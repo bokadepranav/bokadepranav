@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Bokade</h1>
 <h3 align="center">BE Computer Engineering Student | Full Stack Developer | Passionate Java Programmer</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bokadepranav&label=Profile%20views&color=0e75b6&style=flat" alt="bokadepranav" /> </p>
 
 - 🔭 I’m currently working on [Easy Reaches](https://github.com/teamasap2002/EasyReache)
 
