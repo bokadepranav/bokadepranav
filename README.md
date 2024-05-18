@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Bokade</h1>
 <h3 align="center">BE Computer Engineering Student | Full Stack Developer | Passionate Java Programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bokadepranav" alt="bokadepranav" /></a> </p>
+
 
 - 🔭 I’m currently working on [Easy Reaches](https://github.com/teamasap2002/EasyReache)
 
