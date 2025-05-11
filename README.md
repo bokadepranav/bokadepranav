@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bokadepranav&label=Profile%20views&color=0e75b6&style=flat" alt="bokadepranav" /> </p>
 
-- 🔭 I’m currently working on [Easy Reaches](https://github.com/teamasap2002/EasyReache)
+- 🔭 I’m currently working on [Shopworm 2.0](https://github.com/bokadepranav/shopworm2.0)
 
 - 🌱 I’m currently learning **ReactJS, AngularJS, NodeJs**
 
